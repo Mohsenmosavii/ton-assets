@@ -880,6 +880,9 @@
 - address: 0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd
   name: Save Ass Coin
   symbol: SAC
+- address: 0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4
+  name: SAD MEOW
+  symbol: SADMEOW
 - address: 0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d
   name: Saintcoin
   symbol: SAINT
@@ -967,6 +970,9 @@
 - address: 0:6331486e6672d1bb8e4bb49362c409961f8f08ac1eb5aa4d7055626a64ab8d74
   name: Stellarium
   symbol: STL
+- address: 0:6ca2c99c66b0fa1478a303ba9618bc39c28fda1fc50de37e618bddf98c9fd24c
+  name: STORM
+  symbol: STORM
 - address: 0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7
   name: Dog Wif Shapka
   symbol: Shapka
