@@ -241,6 +241,7 @@ Name           | Address
 [Harry Gorilla](https://tonviewer.com/0:6e2935797d33ab40e80277107751ab6116d636540a5bd6282862428202015f8f) | EQBuKTV5fTOrQOgCdxB3UathFtY2VApb1igoYkKCAgFfj44x
 [Hasbulla](https://tonviewer.com/0:296b467923494c7a2b524d4b72b5c7b9679cb861a9398c1c12f02c39dcfd436a) | EQApa0Z5I0lMeitSTUtytce5Z5y4Yak5jBwS8Cw53P1Davtw
 [Hedgehog in the fog](https://tonviewer.com/0:8b5af0a3e384184de2ee8e7098287ec3a00ba4fceed023e2e702ddd7e5b39f34) | EQCLWvCj44QYTeLujnCYKH7DoAuk_O7QI-LnAt3X5bOfNFMy
+[Hipo Governance Token](https://tonviewer.com/0:d0114af42cf8bc9ba0fa1745abbeea24eed65b01caf4ca7d98ee12b6f7530ccc) | EQDQEUr0LPi8m6D6F0Wrvuok7tZbAcr0yn2Y7hK291MMzMjM
 [Hipo Staked TON](https://tonviewer.com/0:bf8e09d25de299b98eeb104da0178df18781605070825dec9c34f5d22f7f65b8) | EQC_jgnSXeKZuY7rEE2gF43xh4FgUHCCXeycNPXSL39luA7K
 [Hipo Staked TON](https://tonviewer.com/0:cf76af318c0872b58a9f1925fc29c156211782b9fb01f56760d292e56123bf87) | EQDPdq8xjAhytYqfGSX8KcFWIReCufsB9Wdg0pLlYSO_h76w
 [Hipo Staked TON v1](https://tonviewer.com/0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63) | EQBNo5qAG8I8J6IxGaz15SfQVB-kX98YhKV_mT36Xo5vYxUa
@@ -659,6 +660,7 @@ Name           | Address
 [VISHNYA](https://tonviewer.com/0:832092854dfe50a168a2ebefca4e4f1ba3a78a891fba864e47510c22c427bc49) | EQCDIJKFTf5QoWii6-_KTk8bo6eKiR-6hk5HUQwixCe8SW-I
 [VOMER](https://tonviewer.com/0:6d14df21f1d4ad4ef239f2d11273f4bbd1e86404b4aecd0a8283904b210c8a30) | EQBtFN8h8dStTvI58tESc_S70ehkBLSuzQqCg5BLIQyKMBC1
 [VZGLYAD AVTORA](https://tonviewer.com/0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a) | EQAC7ARsJ6ScpxGXPKK3-w2hXvGiDTfE9wlxN02HmaLtKhvw
+[Vilarso](https://tonviewer.com/0:491153a8b7e25ccfa6e3e3985454d447847643b6e17bb6ce592488235bfb6506) | EQBJEVOot-Jcz6bj45hUVNRHhHZDtuF7ts5ZJIgjW_tlBq7d
 [Vincere](https://tonviewer.com/0:ea42c7288588a54aa584c9e2f209178e40a3a1eca8515ff08f943f90771d36b5) | EQDqQscohYilSqWEyeLyCReOQKOh7KhRX_CPlD-Qdx02tUbG
 [Virtuals Worlds](https://tonviewer.com/0:5f5fd28ee72205a6b1d63e9269dceb17fba7232e310917e879b88404dde2c963) | EQBfX9KO5yIFprHWPpJp3OsX-6cjLjEJF-h5uIQE3eLJY8_h
 [Vladimir Puton](https://tonviewer.com/0:0cd0b3c29d2b2fe6656006a302bbbd24bdbc4dad2b617e1bbf4207944e7be0b4) | EQAM0LPCnSsv5mVgBqMCu70kvbxNrSthfhu_QgeUTnvgtD22
