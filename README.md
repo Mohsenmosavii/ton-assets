@@ -151,6 +151,7 @@ Name           | Address
 [Crypto Kings](https://tonviewer.com/0:bbf45aa71c685aa8fb2513aff598c21c72e1843fb203184cb61cb72b9681bc3c) | EQC79FqnHGhaqPslE6_1mMIccuGEP7IDGEy2HLcrloG8PE_X
 [Cubigator](https://tonviewer.com/0:9748c357dce0798cf80e2641338d8866ec53817e4037720ee9681a93630cd7ae) | EQCXSMNX3OB5jPgOJkEzjYhm7FOBfkA3cg7paBqTYwzXrjIi
 [Cute Cats](https://tonviewer.com/0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4) | EQCy95IhvMjCGDzvhm5WpqlFXjaPmVYJRWvGtRBcI8B69E3z
+[D-ONE](https://tonviewer.com/0:a0194301feed4692bb24c36a38d3b220f3299099f9315ae3d6d9de0836e4283c) | EQCgGUMB_u1Gkrskw2o407Ig8ymQmfkxWuPW2d4INuQoPFJO
 [DAOLegion](https://tonviewer.com/0:eda9200da8ae0baa00e4e1ffeaf6622f39a572db5dae95abcff5e9b6798c0a3a) | EQDtqSANqK4LqgDk4f_q9mIvOaVy212ulavP9em2eYwKOiJw
 [DARK DUROV](https://tonviewer.com/0:250cb83c3b59f4f3a9dae0c1b416575206422aa65b3aa018b947b61102de34d4) | EQAlDLg8O1n086na4MG0FldSBkIqpls6oBi5R7YRAt401Dcd
 [DARK ELON on Ton](https://tonviewer.com/0:2fc09c95a17230a35ed28afe6d1def9bc1731eb767dc70f9c480c0c52f21b404) | EQAvwJyVoXIwo17Siv5tHe-bwXMet2fccPnEgMDFLyG0BKUV
