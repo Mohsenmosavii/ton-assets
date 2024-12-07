@@ -2637,6 +2637,11 @@
   "symbol": "POGO"
  },
  {
+  "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
+  "name": "Ponchiqs",
+  "symbol": "PONCH"
+ },
+ {
   "address": "0:bc5e450459be9bcdbcc4f5e55a012a0a502c9803f0944002c6135e635889c4aa",
   "name": "PONKE TON",
   "symbol": "PONKE"
@@ -3567,9 +3572,19 @@
   "symbol": "eNOT"
  },
  {
+  "address": "0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8",
+  "name": "jBTC",
+  "symbol": "jBTC"
+ },
+ {
   "address": "0:5a5ab519c1031c0841d91dff9d0055610162276c0eca25c88cd56d5a43183861",
   "name": "Bitget Wallet Token",
   "symbol": "jBWB"
+ },
+ {
+  "address": "0:9bd52017d6178af6d2bc6b9097b5849b7475e43cf01758a4f2dd8cf93c7d6582",
+  "name": "jETH",
+  "symbol": "jETH"
  },
  {
   "address": "0:aa9e166774119bc233e957c2bff1638ae7c66440f5e54bf6ec85abbd0ca5a700",
