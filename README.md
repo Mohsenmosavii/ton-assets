@@ -214,6 +214,7 @@ Name           | Address
 [Fake Notcoin](https://tonviewer.com/0:1596e1910b8c04576683a62220aa212f8671fefa59aae4415a2fa0bd55fbf455) | EQAVluGRC4wEV2aDpiIgqiEvhnH--lmq5EFaL6C9Vfv0VRMZ
 [Fanton](https://tonviewer.com/0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e) | EQDCBwiUEeeBLHhqIW161yObGvO7_BqZeD3XR5E2y_fwfiMG
 [Fanzee Token](https://tonviewer.com/0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739) | EQDCJL0iQHofcBBvFBHdVG233Ri2V4kCNFgfRT-gqAd3Oc86
+[Fast UP](https://tonviewer.com/0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5) | EQD6fdBx0HP13JfcVocPgQCjKqpKXh3hXSMVGVHe5yRA1fb_
 [Ferma Invest Dom](https://tonviewer.com/0:ac37522c96db671691a351a6e9b774429d561c6bbe1907dc83d0bd992bd0af27) | EQCsN1IslttnFpGjUabpt3RCnVYca74ZB9yD0L2ZK9CvJ53D
 [Fintopio 💎](https://tonviewer.com/0:74da7151d386c3c1e53c17247a089b94458994a7f638859410fc29fadd227415) | EQB02nFR04bDweU8FyR6CJuURYmUp_Y4hZQQ_Cn63SJ0FZga
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
