@@ -2052,6 +2052,11 @@
   "symbol": "GGT"
  },
  {
+  "address": "0:1807ab429dc9efb20b06c63b45129d72e8ac3f721e1ae6e73a9e00082c468f38",
+  "name": "GiftHub",
+  "symbol": "GH"
+ },
+ {
   "address": "0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425",
   "name": "GLITCH",
   "symbol": "GLITCH"
@@ -3560,6 +3565,11 @@
   "address": "0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b",
   "name": "Tvorog",
   "symbol": "TYS"
+ },
+ {
+  "address": "0:1a01717de3cb8ad63022e11c8ce72c1dfe08088f1f2e64ae162f91995fa1e590",
+  "name": "Tiny Verse Matter",
+  "symbol": "TYVM"
  },
  {
   "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
