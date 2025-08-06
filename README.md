@@ -367,6 +367,7 @@ Name           | Address
 [Magic Vip People](https://tonviewer.com/0:c0897c57f09d821e8e2e9f6980605b9ec48eb6d18df70967cb1592beecb711f4) | EQDAiXxX8J2CHo4un2mAYFuexI620Y33CWfLFZK-7LcR9Pps
 [MagicDeer](https://tonviewer.com/0:3bf482125cc47cbdef403a2a541378b986da7acfa23bca7482f43281a3ccc7b0) | EQA79IISXMR8ve9AOipUE3i5htp6z6I7ynSC9DKBo8zHsIYr
 [Major](https://tonviewer.com/0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00) | EQCuPm01HldiduQ55xaBF_1kaW_WAUy5DHey8suqzU_MAJOR
+[Make Ton Great Again](https://tonviewer.com/0:b54596f9045fde5ab4740180ada548a0e5ce02428ba943fbfe001b1198ee696e) | EQC1RZb5BF_eWrR0AYCtpUig5c4CQoupQ_v-ABsRmO5pbgQL
 [Making Money TON](https://tonviewer.com/0:b27dd55b7f091c05f0529f9ec6467318fc144ee2f606ec79e45a7807e3514b33) | EQCyfdVbfwkcBfBSn57GRnMY_BRO4vYG7HnkWngH41FLM-5Y
 [Mandarin](https://tonviewer.com/0:70a26c0a6ca1e8cf65aa5fb5fe6a3a729ec87cf28d44b5489c6108a440163b7f) | EQBwomwKbKHoz2WqX7X-ajpynsh88o1EtUicYQikQBY7f635
 [Mantle](https://tonviewer.com/0:04ba290b41587694332b57df674c7a852ff4d7132084275c4a32e3d3eb4b5fbd) | EQAEuikLQVh2lDMrV99nTHqFL_TXEyCEJ1xKMuPT60tfvdps
@@ -486,6 +487,7 @@ Name           | Address
 [PUPA](https://tonviewer.com/0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105) | EQApavswugkXNSg2pKxIQXczMOjZc2Mg0t3j_KuCmSBRBTBw
 [PX](https://tonviewer.com/0:78db4c90b19a1b19ccb45580df48a1e91b6410970fa3d5ffed3eed49e3cf08ff) | EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX
 [Paper Plane](https://tonviewer.com/0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34) | EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
+[Part Time Troll](https://tonviewer.com/0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665) | EQDe6uFxY_1rWpGwJHLvLNFZ0J_YmmsVAME9XIhqN0i2ZX_C
 [Pavel Durov](https://tonviewer.com/0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b) | EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et
 [Pavul Durkev](https://tonviewer.com/0:a15e075f111da7b8bbd93f91224a509ff79a1767928388212618106ffd670d77) | EQChXgdfER2nuLvZP5EiSlCf95oXZ5KDiCEmGBBv_WcNdxz3
 [Pepe on Ton](https://tonviewer.com/0:395604cda7b3145ac51bd57ad41c530300a5920f20142b2be644606e2a7ef8b4) | EQA5VgTNp7MUWsUb1XrUHFMDAKWSDyAUKyvmRGBuKn74tChu
