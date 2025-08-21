@@ -111,6 +111,7 @@ Name           | Address
 [Baby Notcoin](https://tonviewer.com/0:f1443f8d5f4c6db2eda2774b6e7d92ddc4136888a9338c042a061eb9671ab620) | EQDxRD-NX0xtsu2id0tufZLdxBNoiKkzjAQqBh65Zxq2IK48
 [Baby Ton Cat](https://tonviewer.com/0:954e7c7f9f6511a3d72e267393f051f8cf525c4b11a4c979d0a46c11def13251) | EQCVTnx_n2URo9cuJnOT8FH4z1JcSxGkyXnQpGwR3vEyUeEr
 [Baby Yoda](https://tonviewer.com/0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7) | EQC7vuKEYLdC72YhUWt3AUVA-Oi66Q1DxTHXH7r6pXaV50j7
+[BabyUtya](https://tonviewer.com/0:049a69023f5b6e1ef0acb8d671b8a7bdde3e032d7bcf8c3041318116693c352b) | EQAEmmkCP1tuHvCsuNZxuKe93j4DLXvPjDBBMYEWaTw1Kw_k
 [Baron](https://tonviewer.com/0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca) | EQBiHSLVzoicc-LQPDXJc_rF-WRft0aFihccFduA6fQ1ynYM
 [Bear Coin](https://tonviewer.com/0:6dbfb237a59a4c0140a179fd95ae4f94d46702134d2b44eb8780c27d0af8e875) | EQBtv7I3pZpMAUChef2Vrk-U1GcCE00rROuHgMJ9CvjodRZW
 [Bear Country Token](https://tonviewer.com/0:2fbc476ae31e4aea8c23b0c2385fa0312a44c15d52885648921c32edea2d8b16) | EQAvvEdq4x5K6owjsMI4X6AxKkTBXVKIVkiSHDLt6i2LFnnQ
