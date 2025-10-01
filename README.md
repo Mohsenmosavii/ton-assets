@@ -642,7 +642,6 @@ Name           | Address
 [TON SHIP](https://tonviewer.com/0:358ef3ea471e9bba36288439f2e378705fc159af76fa3989c8dedda31dde135d) | EQA1jvPqRx6bujYohDny43hwX8FZr3b6OYnI3t2jHd4TXSJs
 [TON Storm LP](https://tonviewer.com/0:8d636010dd90d8c0902ac7f9f397d8bd5e177f131ee2cca24ce894f15d19ceea) | EQCNY2AQ3ZDYwJAqx_nzl9i9Xhd_Ex7izKJM6JTxXRnO6n1F
 [TON7DAO](https://tonviewer.com/0:3b9cb248f84a1ce680731019e52f37b34c4c06351bf2479b57ee25874fc28fc1) | EQA7nLJI-Eoc5oBzEBnlLzezTEwGNRvyR5tX7iWHT8KPwVy1
-[TONALD TRUMP](https://tonviewer.com/0:97fef491f2ad0e48def8fc14aafd989e2d9b8d1b1ef0b74b17ab5b79108d2ad9) | EQCX_vSR8q0OSN74_BSq_ZieLZuNGx7wt0sXq1t5EI0q2SRI
 [TONFOMO](https://tonviewer.com/0:d1874559a045971eda548bc34a6a036521f258c6cb1ae727a57fb51630bdf2dd) | EQDRh0VZoEWXHtpUi8NKagNlIfJYxssa5yelf7UWML3y3RC2
 [TONKINGS Social Token](https://tonviewer.com/0:eebc03f6dfcb16a9c0ae71feed512eccfb873e5b02176fab4aa2c74b5e541f9b) | EQDuvAP238sWqcCucf7tUS7M-4c-WwIXb6tKosdLXlQfmzcr
 [TONNY](https://tonviewer.com/0:fbb087cfd8f47cbfb463671464f1f3f29ac8c4de15226030da003dfcc7a2c2b4) | EQD7sIfP2PR8v7RjZxRk8fPymsjE3hUiYDDaAD38x6LCtG2f
@@ -670,6 +669,7 @@ Name           | Address
 [Tether USD](https://tonviewer.com/0:b113a994b5024a16719f69139328eb759596c38a25f59028b146fecdc3621dfe) | EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs
 [Tfish](https://tonviewer.com/0:1057f39fa485f245362ff96e83ec5d746477ddc2662d80c474e6e810c355ddc8) | EQAQV_OfpIXyRTYv-W6D7F10ZHfdwmYtgMR05ugQw1XdyEBz
 [Tgram](https://tonviewer.com/0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b) | EQDRlQ8en7A2zsTuF7SdDOxMlZ_wFw0E7Eow3u9c4pSoe4Tg
+[The Fund](https://tonviewer.com/0:2397e9ded4cdccab6a98213fa34738c52c4ed2d1547baa7320a54e958ec3d2ac) | EQAjl-ne1M3Mq2qYIT-jRzjFLE7S0VR7qnMgpU6VjsPSrDIX
 [The Matrix](https://tonviewer.com/0:13a53eb373d32b5a79238a38fdac5d1fc914f9d56c6c5c078193d01037679193) | EQATpT6zc9MrWnkjijj9rF0fyRT51WxsXAeBk9AQN2eRk4Nv
 [The Open League MEME](https://tonviewer.com/0:8e291ace7b37997c28242873be3c19e179ec578eb147652f9e44ee43ffc87960) | EQCOKRrOezeZfCgkKHO-PBnheexXjrFHZS-eRO5D_8h5YM5N
 [The Open SOFT](https://tonviewer.com/0:87ae1701195565adef278019712ed7ed7b7ece1ac5de2529854a60012fcc78e1) | EQCHrhcBGVVlre8ngBlxLtfte37OGsXeJSmFSmABL8x44QH2
