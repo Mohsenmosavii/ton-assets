@@ -418,6 +418,9 @@
 - address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
   name: eTON NFT
   symbol: ENFT
+- address: 0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681
+  name: Evaa protocol
+  symbol: EVAA
 - address: 0:be0346478809623c9e8b610419eb1d964490b468712627f38c1baa6275be404a
   name: EXTON COIN
   symbol: EXC
@@ -868,6 +871,9 @@
 - address: 0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087
   name: NUDES Coin
   symbol: NUDES
+- address: 0:f352b4b1c313c9883e5a05483e1ce325205b1c64b656274e9e38a53ed2e0e447
+  name: Numbers Strategy
+  symbol: NUMSTR
 - address: 0:b9cef491cc302d2fe928bb71e9c956ce57fc3edb4db0262e98d03c0033b18a99
   name: NUTCOIN
   symbol: NUT

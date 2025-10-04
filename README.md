@@ -223,6 +223,7 @@ Name           | Address
 [Engage ADS on Ton Open Network](https://tonviewer.com/0:c4da239586fb5e040f1b0b1cb072608e3d5c491a5b4f85fb7c4580d35e2bf896) | EQDE2iOVhvteBA8bCxywcmCOPVxJGltPhft8RYDTXiv4lmvM
 [Epidemy](https://tonviewer.com/0:bbcc4d8155c2e2c9b04cb90d6088e3d898ee098bcf09d76afb76ea8c2563ad17) | EQC7zE2BVcLiybBMuQ1giOPYmO4Ji88J12r7duqMJWOtFxtr
 [Ethena USDe](https://tonviewer.com/0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc) | EQAIb6KmdfdDR7CN1GBqVJuP25iCnLKCvBlJ07Evuu2dzP5f
+[Evaa protocol](https://tonviewer.com/0:4a31f8d7fdafddb0e2e6fa3bb1c95672b453fbfca2a7cc6bfa274d6419cef681) | EQBKMfjX_a_dsOLm-juxyVZytFP7_KKnzGv6J01kGc72gVBp
 [F](https://tonviewer.com/0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce) | EQDrpvx5-voHGu717aKEMsM8hk67FpKH6XUPWduo0qqZzl6K
 [FLOX](https://tonviewer.com/0:e0e59518a1b5db4240db28224a0e7a4077d04a85d23bb305497727d987f2d7be) | EQDg5ZUYobXbQkDbKCJKDnpAd9BKhdI7swVJdyfZh_LXvrfl
 [FLYKI Token](https://tonviewer.com/0:9efd7ad27e0e0c9cbdfeae8d5a900116c5d7c789731ddb8fd7813261ae2a027a) | EQCe_XrSfg4MnL3-ro1akAEWxdfHiXMd24_XgTJhrioCek9R
@@ -453,6 +454,7 @@ Name           | Address
 [NotBlumHmstrCatiDogsWoof](https://tonviewer.com/0:3571d5c4296aedf88d94ecc575849f05a5dbb026ee82c9da22a0062d3abf76d7) | EQA1cdXEKWrt-I2U7MV1hJ8FpduwJu6CydoioAYtOr921wyg
 [Notcoin](https://tonviewer.com/0:2f956143c461769579baef2e32cc2d7bc18283f40d20bb03e432cd603ac33ffc) | EQAvlWFDxGF2lXm67y4yzC17wYKD9A0guwPkMs1gOsM__NOT
 [Nuka Cola](https://tonviewer.com/0:fdce0fe3301123402c0a967d7138ee2269fe85e2be11e9881758fa887962aaad) | EQD9zg_jMBEjQCwKln1xOO4iaf6F4r4R6YgXWPqIeWKqrTqj
+[Numbers Strategy](https://tonviewer.com/0:f352b4b1c313c9883e5a05483e1ce325205b1c64b656274e9e38a53ed2e0e447) | EQDzUrSxwxPJiD5aBUg-HOMlIFscZLZWJ06eOKU-0uDkR04k
 [OAAL AI](https://tonviewer.com/0:afb0044553fb49091abb7854ebb363916ac0b00c83cb428ed99647a1b0c9a043) | EQCvsARFU_tJCRq7eFTrs2ORasCwDIPLQo7ZlkehsMmgQzd8
 [OGToken](https://tonviewer.com/0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4) | EQAYxaCpAVHjpCWaZtrClXkOm9Yq7AVP2URAcRBW4GjtxOMj
 [OLBITX](https://tonviewer.com/0:6eaf71916af4b4ecd688572b2e1b89a576090642435e090c6e76e25bc4afe8d9) | EQBur3GRavS07NaIVysuG4mldgkGQkNeCQxuduJbxK_o2QD3
