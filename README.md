@@ -358,6 +358,7 @@ Name           | Address
 [LP Token for pTON-JETTON](https://tonviewer.com/0:139eae96db1bf5d02d7d2cd942dbac45b535757dbccc917997402587aadbfa3a) | EQATnq6W2xv10C19LNlC26xFtTV1fbzMkXmXQCWHqtv6Okf7
 [LUPA](https://tonviewer.com/0:574736adc6bc8a2a75ba98d184662105306113eb9e56e3444ec75aa764ff92ff) | EQBXRzatxryKKnW6mNGEZiEFMGET655W40ROx1qnZP-S_-p6
 [Laika](https://tonviewer.com/0:b8bd485d009f7fa64eec2d91111a7d2f4ffbeb4bf7f20157d6c90df80fa164e0) | EQC4vUhdAJ9_pk7sLZERGn0vT_vrS_fyAVfWyQ34D6Fk4Ncw
+[Lamborghini ](https://tonviewer.com/0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad) | EQB0G6jP0vDSDMhOxbw31Vf8ZfzL8vy_1vcrZ5wkWUGFrVNH
 [LandWolf](https://tonviewer.com/0:a7d73892dfddfe73bd862968208643606385b0921de90729b805badb90c3d85a) | EQCn1ziS393-c72GKWgghkNgY4Wwkh3pBym4BbrbkMPYWlvJ
 [Lavandos](https://tonviewer.com/0:65de083a0007638233b6668354e50e44cd4225f1730d66b8b1f19e5d26690751) | EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI
 [Leagushka](https://tonviewer.com/0:3309d04825d6599e97e7e21eedec03a4e44ecc01ac54b0844006ea25562199ae) | EQAzCdBIJdZZnpfn4h7t7AOk5E7MAaxUsIRABuolViGZrhzI
