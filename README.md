@@ -449,6 +449,7 @@ Name           | Address
 [NUDES Coin](https://tonviewer.com/0:72830ac4706223e73984b5678c1ac4176d7af5581815ddca157eac944508a087) | EQBygwrEcGIj5zmEtWeMGsQXbXr1WBgV3coVfqyURQighw2Y
 [NUTCOIN](https://tonviewer.com/0:b9cef491cc302d2fe928bb71e9c956ce57fc3edb4db0262e98d03c0033b18a99) | EQC5zvSRzDAtL-kou3HpyVbOV_w-202wJi6Y0DwAM7GKmfCY
 [Neo Dog](https://tonviewer.com/0:6dccde67f4d9161a33bab8c96137b17c51dc2263e085a1d3ee8a9d31e4350e1b) | EQBtzN5n9NkWGjO6uMlhN7F8UdwiY-CFodPuip0x5DUOG7K4
+[Nepal Monarchy GOLD](https://tonviewer.com/0:306f7bca7d878d706df38ce3a01e98a14bdb1b451d4aaf3d037ed943a5137488) | EQAwb3vKfYeNcG3zjOOgHpihS9sbRR1Krz0DftlDpRN0iDkG
 [New World Order](https://tonviewer.com/0:c3ae6ab597aeae34342aaea95b4d0311628adf5f220b0ee149841b051d5130dd) | EQDDrmq1l66uNDQqrqlbTQMRYorfXyILDuFJhBsFHVEw3Wu4
 [NikolAI](https://tonviewer.com/0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6) | EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm
 [Nikolai KOT Durov](https://tonviewer.com/0:fe2d6f635366ed4aefdc96b73e71725a1c94ba2ca27af5031ca4b6c514f53173) | EQD-LW9jU2btSu_clrc-cXJaHJS6LKJ69QMcpLbFFPUxc4Ux
