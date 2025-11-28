@@ -2937,6 +2937,11 @@
   "symbol": "PLANKTON"
  },
  {
+  "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
+  "name": "Palladium",
+  "symbol": "PLD"
+ },
+ {
   "address": "0:41ed158ed2ace8e898629172e398a25cf35212e094747327396cf00bfe1d061a",
   "name": "Portal Network Token",
   "symbol": "POE"

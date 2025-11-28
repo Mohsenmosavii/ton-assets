@@ -519,6 +519,7 @@ Name           | Address
 [PUPA](https://tonviewer.com/0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105) | EQApavswugkXNSg2pKxIQXczMOjZc2Mg0t3j_KuCmSBRBTBw
 [PX](https://tonviewer.com/0:78db4c90b19a1b19ccb45580df48a1e91b6410970fa3d5ffed3eed49e3cf08ff) | EQB420yQsZobGcy0VYDfSKHpG2QQlw-j1f_tPu1J488I__PX
 [Padel](https://tonviewer.com/0:87a40a1ccced702093c9d1fdbc2d8addcab4b6bd919d29160fa5a2d756c98bd2) | EQCHpAoczO1wIJPJ0f28LYrdyrS2vZGdKRYPpaLXVsmL0qgX
+[Palladium](https://tonviewer.com/0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7) | EQDgGuB15VUI7wkJ9c5_tjQswWuePEtqTDXSHIYKMMSxx_2U
 [Paper Plane](https://tonviewer.com/0:17f49eb4bdafb4c080cc76a18b44c7fb8a626f1b462dca2dd8c67abdcbe9db34) | EQAX9J60va-0wIDMdqGLRMf7imJvG0Ytyi3Yxnq9y-nbNCq2
 [Part Time Troll](https://tonviewer.com/0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665) | EQDe6uFxY_1rWpGwJHLvLNFZ0J_YmmsVAME9XIhqN0i2ZX_C
 [Pavel Durov](https://tonviewer.com/0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b) | EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et
