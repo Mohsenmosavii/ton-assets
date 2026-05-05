@@ -94,6 +94,9 @@
 - address: 0:02ec046c27a49ca711973ca2b7fb0da15ef1a20d37c4f70971374d8799a2ed2a
   name: VZGLYAD AVTORA
   symbol: AVTR
+- address: 0:8577fd6518da7c97a040d7b2142d933eb3feb25980f3d91751c12a9bb77e5e5c
+  name: Agentic Wallets
+  symbol: AW
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
@@ -319,6 +322,9 @@
 - address: 0:b2f79221bcc8c2183cef866e56a6a9455e368f995609456bc6b5105c23c07af4
   name: Cute Cats
   symbol: CuteCats
+- address: 0:29f298a67958c11c441d2530fde6c87e5d15039a62c85ee8bcde8479a8cbc3f1
+  name: Dmitry'Friends
+  symbol: D'F
 - address: 0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6
   name: Dancing Cat
   symbol: DANCINGCAT
@@ -541,12 +547,12 @@
 - address: 0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51
   name: Goy Token
   symbol: GOY
-- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
-  name: Gram
-  symbol: GRAM
 - address: 0:44e80f4f7fb0c670e5639f3a11fe41288b4b86812051553e0632c6c4a88a1309
   name: GRAND
   symbol: GRAND
+- address: 0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198
+  name: Grm
+  symbol: GRM
 - address: 0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9
   name: Groyper
   symbol: GROYP
@@ -793,6 +799,9 @@
 - address: 0:ee1a0a9953bfc012088ec047be69ba3321e7eea1a8ab4d62cec9dedcfdff0687
   name: Make TON Great Again
   symbol: MTONGA
+- address: 0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a
+  name: 'MTONGA Flag '
+  symbol: MTONGAF
 - address: 0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013
   name: meik tun grit agen
   symbol: MTUNGA
@@ -1153,6 +1162,9 @@
 - address: 0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9
   name: Slowpoke
   symbol: SLOW
+- address: 0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63
+  name: SAFEMOON
+  symbol: SMOON
 - address: 0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2
   name: "Sushi\u2019n\u2019Girls"
   symbol: SNG
@@ -1445,6 +1457,9 @@
 - address: 0:f4d53c04d69958a582af47058e2f0033cc025a0cac290766d1de77e0fb090927
   name: Teleclaw
   symbol: Teleclaw
+- address: 0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090
+  name: TGFoundation
+  symbol: Telegram
 - address: 0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3
   name: Token 69
   symbol: Token 69
@@ -1475,6 +1490,9 @@
 - address: 0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496
   name: Upstream Lab
   symbol: USL
+- address: 0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810
+  name: Utya Strategy
+  symbol: USTR
 - address: 0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d
   name: Utya
   symbol: UTYA
