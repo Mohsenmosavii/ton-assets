@@ -2352,6 +2352,11 @@
   "symbol": "KOT"
  },
  {
+  "address": "0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446",
+  "name": "Nikolai Durov",
+  "symbol": "KOT"
+ },
+ {
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
   "name": "MrKrabs",
   "symbol": "KRABS"
@@ -2940,6 +2945,11 @@
   "address": "0:78db4c90b19a1b19ccb45580df48a1e91b6410970fa3d5ffed3eed49e3cf08ff",
   "name": "PX",
   "symbol": "PX"
+ },
+ {
+  "address": "0:0ec9fe27fbbc13b53238e4b190c1f69c11f9e4a4e6bdbfa6e3a7081e0875f959",
+  "name": "Durovs Dog",
+  "symbol": "PYONYA"
  },
  {
   "address": "0:d13accad4b12ed0e9ff6a512046a29d41aa64f4416d79306b2567ed5013edb1c",

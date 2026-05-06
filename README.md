@@ -214,6 +214,7 @@ Name           | Address
 [Du Rove’s Wall](https://tonviewer.com/0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35) | EQDdCha_K-Z97lKl599O0GDAt0py2ZUuons4Wuf85tq6NXIO
 [Dubai #2049](https://tonviewer.com/0:614683e638899c5367b708b283e9e099fcf7cecf689815c398df5dfd1d4531d2) | EQBhRoPmOImcU2e3CLKD6eCZ_PfOz2iYFcOY3139HUUx0phP
 [Duck Coin](https://tonviewer.com/0:53732b598dd67014b8fa4ceec2786be7e1a326a97bdb5fe9ce0e20296ddd35d6) | EQBTcytZjdZwFLj6TO7CeGvn4aMmqXvbX-nODiApbd011gT3
+[Durovs Dog](https://tonviewer.com/0:0ec9fe27fbbc13b53238e4b190c1f69c11f9e4a4e6bdbfa6e3a7081e0875f959) | EQAOyf4n-7wTtTI45LGQwfacEfnkpOa9v6bjpwgeCHX5WW8y
 [Durov’s Code](https://tonviewer.com/0:c97192095e0f3193f8bcc0dd100128525de76a16f816cee2f88b9d25d58ad637) | EQDJcZIJXg8xk_i8wN0QAShSXedqFvgWzuL4i50l1YrWN9GN
 [E4](https://tonviewer.com/0:cd94d0363526d6b62816dfb597fff148bb863634d3f08a325ddcab66862ee074) | EQDNlNA2NSbWtigW37WX__FIu4Y2NNPwijJd3Ktmhi7gdCyv
 [ECNATSISER GOD](https://tonviewer.com/0:321237232c5db81f64d3adecb561e777b91b35f316ea905094deece98471ebf2) | EQAyEjcjLF24H2TTrey1Yed3uRs18xbqkFCU3uzphHHr8n3y
@@ -443,6 +444,7 @@ Name           | Address
 [Nepal Monarchy GOLD](https://tonviewer.com/0:306f7bca7d878d706df38ce3a01e98a14bdb1b451d4aaf3d037ed943a5137488) | EQAwb3vKfYeNcG3zjOOgHpihS9sbRR1Krz0DftlDpRN0iDkG
 [New World Order](https://tonviewer.com/0:c3ae6ab597aeae34342aaea95b4d0311628adf5f220b0ee149841b051d5130dd) | EQDDrmq1l66uNDQqrqlbTQMRYorfXyILDuFJhBsFHVEw3Wu4
 [NikolAI](https://tonviewer.com/0:e8f100ba9958bb1aaeae1960c5e17569ddc678c0a67e6ea28192685530f9bed6) | EQDo8QC6mVi7Gq6uGWDF4XVp3cZ4wKZ-bqKBkmhVMPm-1ojm
+[Nikolai Durov](https://tonviewer.com/0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446) | EQAON7Xe_pCY6UHu55CCTAO4HK5K39mdQdK-iuj6n21URssb
 [Nikolai KOT Durov](https://tonviewer.com/0:fe2d6f635366ed4aefdc96b73e71725a1c94ba2ca27af5031ca4b6c514f53173) | EQD-LW9jU2btSu_clrc-cXJaHJS6LKJ69QMcpLbFFPUxc4Ux
 [Nobby Game](https://tonviewer.com/0:41f843111099081d5606e433e29253a158f72c09ac632fd1ca9a046fb86b73ff) | EQBB-EMREJkIHVYG5DPiklOhWPcsCaxjL9HKmgRvuGtz_1lu
 [Not Games](https://tonviewer.com/0:707f059d0ee73b5f27067eaec548d078be8f45afd0e7ce2953d86aa9796f7e78) | EQBwfwWdDuc7XycGfq7FSNB4vo9Fr9DnzilT2GqpeW9-eJ2Q
