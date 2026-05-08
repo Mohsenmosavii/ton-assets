@@ -1477,6 +1477,11 @@
   "symbol": "BBNOT"
  },
  {
+  "address": "0:f9bb6809fddcaa1f422f1016ccc6a47a0cb4a44e81ccfba65db46a1cb22a896e",
+  "name": "black cherry",
+  "symbol": "BCHERRY"
+ },
+ {
   "address": "0:2d62f45d3f29bf54fe372424e169fcd38631b3f0e55b1a7cbfc1359a69e97aef",
   "name": "Boys Club",
   "symbol": "BCLUB"
@@ -2192,6 +2197,11 @@
   "symbol": "GRAND"
  },
  {
+  "address": "0:714b940b57df65eeacc6129133d795a79f2eae088c7a66fde7fc8aed22346036",
+  "name": "Mr Greene",
+  "symbol": "GREENE"
+ },
+ {
   "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
   "name": "Grm",
   "symbol": "GRM"
@@ -2869,6 +2879,11 @@
  {
   "address": "0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729",
   "name": "Plankton",
+  "symbol": "PLANKTON"
+ },
+ {
+  "address": "0:4b976cde5c59f0b7632c0b0fcb3847203f9cc2d154564de300ecd30d12b2eb3a",
+  "name": "CEO Plankton",
   "symbol": "PLANKTON"
  },
  {
@@ -3647,6 +3662,11 @@
   "symbol": "TONY"
  },
  {
+  "address": "0:0ea7f189bd775ff8a3b2af3c1757951fd0fcdbb1ce505cb44fc0f73a763d589e",
+  "name": "Tony McDuck",
+  "symbol": "TONY"
+ },
+ {
   "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
   "name": "ToonTools",
   "symbol": "TOON"
@@ -3772,6 +3792,11 @@
   "symbol": "Tonio"
  },
  {
+  "address": "0:ad989ac0a8b3b9b7bcc8556f8e465ef1f6ceb6428659e449a9183a47fcb234ee",
+  "name": "Ton Ton Ton Sahur",
+  "symbol": "TripleTon"
+ },
+ {
   "address": "0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25",
   "name": "UNICORN",
   "symbol": "UNIC"
@@ -3870,6 +3895,16 @@
   "address": "0:dd0a16bf2be67dee52a5e7df4ed060c0b74a72d9952ea27b385ae7fce6daba35",
   "name": "Du Rove\u2019s Wall",
   "symbol": "WALL"
+ },
+ {
+  "address": "0:8303360ca7c202b97389c200022e1c0a47dab33e1ad8bd5b3c9af301f762860c",
+  "name": "VTONTAKTE",
+  "symbol": "WALL"
+ },
+ {
+  "address": "0:0e2856c65af25304c4961dc25481a1fb405eabacede2b549521916d0eba3114c",
+  "name": "George WashingTON",
+  "symbol": "WASHINGTON"
  },
  {
   "address": "0:84ab3db1dfe51bfc43b8639efdf0d368a8ac35b4ffed27a6fdcbe5f40b8bafb3",
