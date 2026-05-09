@@ -19,6 +19,9 @@
 - address: 0:de9cbb78b5ce562fd35d76d39c81a0b7b04117313c3d08858955fa8cb12dc078
   name: Trade DINO Bot
   symbol: $TDINO
+- address: 0:0ac742b143c47b6c55fc12d94c3200c9d08ca36cf2523a1fb1959707792ac232
+  name: Telegramka
+  symbol: $TGKA
 - address: 0:a5edfab38859a75ad04d6955305e4b772d9686ecc194e56648960687b20413e9
   name: TROMP
   symbol: $TROMP
@@ -46,6 +49,9 @@
 - address: 0:57c53b4310f5b630ac4e54493d9511639758c410cd4b7a5d4cc73cf243e586f3
   name: Aaaaaaahhh
   symbol: AAAA
+- address: 0:0e3366b91a55bd1bad3d804e12d58b141688942bf1a30c47bc4da39f68028369
+  name: Acton
+  symbol: ACTON
 - address: 0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3
   name: AI Coin
   symbol: AIC
@@ -100,6 +106,9 @@
 - address: 0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2
   name: Azure
   symbol: AZURE
+- address: 0:6b13f8073488178981e8031b45305780d3bc4db585a959cedbaa48108784be6d
+  name: Acton
+  symbol: Acton
 - address: 0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182
   name: AquaUSD
   symbol: AquaUSD
@@ -553,6 +562,9 @@
 - address: 0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3
   name: GoMining
   symbol: GOMINING
+- address: 0:0e197b1c74b2f178fa729882e1fdbbba864660b21f8fc2ae01e52b459438dce3
+  name: GoodBoyResistance
+  symbol: GOODBOY
 - address: 0:655a02a787fa9b1584d77ca8060103f193116c02b0ce4abf67940452cf276934
   name: GOVNO
   symbol: GOVNO
