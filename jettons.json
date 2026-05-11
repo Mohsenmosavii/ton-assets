@@ -2967,6 +2967,11 @@
   "symbol": "PPP"
  },
  {
+  "address": "0:0e42d12497489edbe964b5aad1039b544bd3cbea4b9e028290737896d7e7ae9e",
+  "name": "Premium",
+  "symbol": "PREMIUM"
+ },
+ {
   "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",
   "name": "Prolific",
   "symbol": "PRO"
@@ -4275,6 +4280,16 @@
   "address": "0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120",
   "name": "\u8001\u5b50",
   "symbol": "\u8001\u5b50"
+ },
+ {
+  "address": "0:050e756b3c23ad5fa2729a54241ae60203a6ff16b9869f98a6a05f70ff62b3bf",
+  "name": "\u8ba9TON\u518d\u6b21\u4f1f\u5927",
+  "symbol": "\u8ba9TON\u518d\u6b21\u4f1f\u5927"
+ },
+ {
+  "address": "0:cd4aab1f3520d77421215350d92207d9524b5bc7721f329c56dc6adef5540f0b",
+  "name": "\u9053\u5fb7\u7d93",
+  "symbol": "\u9053\u5fb7\u7d93"
  },
  {
   "address": "0:89e73c46909bbc06b25bbd4558212fe425264c99bc51fe4d3d77a8f67c1bc357",
