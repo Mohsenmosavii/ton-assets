@@ -198,6 +198,7 @@ Name           | Address
 [DRFT Coin](https://tonviewer.com/0:65e65b1043d6295705284e571d7ac5408e2a9af968a6896dbd1700c7720024c6) | EQBl5lsQQ9YpVwUoTlcdesVAjiqa-WimiW29FwDHcgAkxh7B
 [DURIKOVICH](https://tonviewer.com/0:524b69d2b8efaf632f20d6480261503b322e21a5865a51bc06d592117ff28147) | EQBSS2nSuO-vYy8g1kgCYVA7Mi4hpYZaUbwG1ZIRf_KBR4_q
 [DYOR Coin](https://tonviewer.com/0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1) | EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz
+[Daisy Romashka](https://tonviewer.com/0:3a9f12d29c292bf6529683ab1d0623f1537df191a65cf80f9fbbbab085169e8f) | EQA6nxLSnCkr9lKWg6sdBiPxU33xkaZc-A-fu7qwhRaej12-
 [Dancing Cat](https://tonviewer.com/0:27cdd7f10d8b2652b2d338bec4e8035158f47ee93941f8b02ffa589fb21fb9e6) | EQAnzdfxDYsmUrLTOL7E6ANRWPR-6TlB-LAv-lifsh-55lZF
 [Dark Horse Investments](https://tonviewer.com/0:8491404bbde5c30377d88c1a94a0b31f0921216da62893883efad1d99398c605) | EQCEkUBLveXDA3fYjBqUoLMfCSEhbaYok4g--tHZk5jGBTpT
 [Darts Coin](https://tonviewer.com/0:56391a57b1002d127565e530261179a43c3f154f08cbf105a35858ea107aacdd) | EQBWORpXsQAtEnVl5TAmEXmkPD8VTwjL8QWjWFjqEHqs3Xei
@@ -813,6 +814,7 @@ Name           | Address
 [dTON](https://tonviewer.com/0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad) | EQDP4FKs4AqothucWAPdHJfsntegHdknrwmg8qV9eBVlrWma
 [donotfomoew](https://tonviewer.com/0:16b0818ca0695b8c9248b2293ef7fe80e088a875bd4cecb5b7926bb4e6ff2e8e) | EQAWsIGMoGlbjJJIsik-9_6A4Iiodb1M7LW3kmu05v8ujo9h
 [eTON NFT](https://tonviewer.com/0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184) | EQD4op8CPvKNpXVxj0nzEjsYWFfUkWfTwu1LtJjER67hhNbT
+[giga horse](https://tonviewer.com/0:f5d50e913e6782006eb7669e7ad5c070ae981f6b31f2dc8c1e46a17e76f20d53) | EQD11Q6RPmeCAG63Zp561cBwrpgfazHy3IweRqF-dvINU8Ac
 [indicaTon](https://tonviewer.com/0:ad9cd74f9c0e0d4ede1743f336d5d2b2a1447b75afd25fbbaab4efb08751deaa) | EQCtnNdPnA4NTt4XQ_M21dKyoUR7da_SX7uqtO-wh1HeqsX4
 [jBTC](https://tonviewer.com/0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8) | EQCbkRdpnrWZfm07dP5n_wjGx6llNkHNIdmZ-gpIQcDP-J-5
 [jDAI](https://tonviewer.com/0:e8fd927243f62a0730706d5a4c9a16e121d74ab513fdf47ba0649d78685b1cc6) | EQDo_ZJyQ_YqBzBwbVpMmhbhIddKtRP99HugZJ14aFscxi7B
