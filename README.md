@@ -292,6 +292,7 @@ Name           | Address
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
+[Gram Morning](https://tonviewer.com/0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a) | EQA69XQSXbB6zXv36mTFaiazCBSuLj_zT6tH44m6ohvjGv02
 [Grem](https://tonviewer.com/0:3a3fa3bf5c31f454d15e74266ea292fb7bc51d4aa1fd604702d9bc334a3b58ca) | EQA6P6O_XDH0VNFedCZuopL7e8UdSqH9YEcC2bwzSjtYyuI4
 [Grm](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
 [Grouche coin](https://tonviewer.com/0:2eeeac5f560320d2da67a2c06901160e1bef96d4452e5ffe47fef390b5356e1e) | EQAu7qxfVgMg0tpnosBpARYOG--W1EUuX_5H_vOQtTVuHnrn
