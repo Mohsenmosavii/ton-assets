@@ -807,6 +807,7 @@ Name           | Address
 [Upstream Lab](https://tonviewer.com/0:8270e128bc1d73adad74d30fd43cbbcc0a74ecd3847dd3e7ce68085111052496) | EQCCcOEovB1zra100w_UPLvMCnTs04R90-fOaAhREQUkluUh
 [Us Usach](https://tonviewer.com/0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024) | EQDjeocqoV44Y3miqstuQ0cT5BxSV05E2qEV2VY1OXRQJGGB
 [Usyk](https://tonviewer.com/0:50f8042220b1a538e46b241ccf0746a775bf830809d07324025cfd3fc191c4c7) | EQBQ-AQiILGlOORrJBzPB0andb-DCAnQcyQCXP0_wZHEx5h9
+[Utia the duck](https://tonviewer.com/0:3ad4eef5cb823ca190d746f30eac7b6e6f6bf170f239e1fd68180fdee21d092f) | EQA61O71y4I8oZDXRvMOrHtub2vxcPI54f1oGA_e4h0JL64L
 [Utya](https://tonviewer.com/0:5a0a05303a873a80708d967fe82736f4995b3bf581bbc18a1abe1fa8d48b5a9d) | EQBaCgUwOoc6gHCNln_oJzb0mVs79YG7wYoavh-o1ItaneLA
 [Utya Strategy](https://tonviewer.com/0:577f9d659e6a7a0298d0edd5978f8ff4af7a55f35da40d8b962a9d20af5eb810) | EQBXf51lnmp6ApjQ7dWXj4_0r3pV812kDYuWKp0gr164EEfo
 [VEREM - Verified Emeralds ™](https://tonviewer.com/0:1398564a476ffb0b1e1962cfe6463d8405ddfb909358bfcbb73e954f645be16e) | EQATmFZKR2_7Cx4ZYs_mRj2EBd37kJNYv8u3PpVPZFvhbqIi
