@@ -643,6 +643,9 @@
 - address: 0:3a6fda7720bc0b91c2a23ab6be05ed578d946d41613930f0698d92edb8647195
   name: Official Gram mascot
   symbol: GRAMIO
+- address: 0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5
+  name: gramming
+  symbol: GRAMMING
 - address: 0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b
   name: GRAM SEASON
   symbol: GRAMSEASON
@@ -965,7 +968,7 @@
   name: Magic Vip People
   symbol: MVP
 - address: 0:8554d9516fe3471c341fbf743dc6f0d704b2656b2f39e7fc5112cab96435fa28
-  name: MyTonWallet Coin
+  name: My Wallet Coin
   symbol: MY
 - address: 0:b61a009227a04d7ee83666022b248c9dac9872228bdfa0b537d4df8c9d3e6e57
   name: MexCrewn
