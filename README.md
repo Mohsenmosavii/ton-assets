@@ -242,6 +242,7 @@ Name           | Address
 [ETON BITLAB](https://tonviewer.com/0:22a54fff31b0e715983011c7630917f00e437f4e28c2b3bb266892109d461f27) | EQAipU__MbDnFZgwEcdjCRfwDkN_TijCs7smaJIQnUYfJ0-z
 [Earnigram](https://tonviewer.com/0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401) | EQBO67bBAIglW_aZryJpwDZI7ZR_J_a7Luhetk0rI__EARNI
 [Ecorpay](https://tonviewer.com/0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb) | EQDc_nrm5oOVCVQM8GRJ5q_hr1jgpNQjsGkIGE-uztt26_Ep
+[Edy](https://tonviewer.com/0:3ab12eaf06ff1d8299e08c1c0050d53373f92fd7623aaecc13c4bbf7bd7ca111) | EQA6sS6vBv8dgpngjBwAUNUzc_kv12I6rswTxLv3vXyhETRI
 [EggsWisdom](https://tonviewer.com/0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b) | EQDCAjHxgyScUPS-Am_2nAH7C5XWM4fc2X9dVyWpFgHXG2rT
 [Emoji Stake](https://tonviewer.com/0:4be7c707fc67c785f768a4f7dc016e7d7499903e2646faaa2478998bdd5e1c8a) | EQBL58cH_GfHhfdopPfcAW59dJmQPiZG-qokeJmL3V4cioTX
 [Energy Cells](https://tonviewer.com/0:c0eafee8952bd9084af6c8d85494ce1e067445d7596c1cbaed92487b3123080a) | EQDA6v7olSvZCEr2yNhUlM4eBnRF11lsHLrtkkh7MSMICt4r
@@ -303,6 +304,7 @@ Name           | Address
 [Goy Token](https://tonviewer.com/0:265c22d037a3dc80a3212bdd7f6c03ea6d2bf2882c38799440212b644a2edf51) | EQAmXCLQN6PcgKMhK91_bAPqbSvyiCw4eZRAIStkSi7fUaRA
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
+[Gram Bro](https://tonviewer.com/0:26a9e7004ab5e9694eb7e7a2cf61a8c1a2154d9e190b54b032f2225a4797a120) | EQAmqecASrXpaU6356LPYajBohVNnhkLVLAy8iJaR5ehICVK
 [Gram Morning](https://tonviewer.com/0:3af574125db07acd7bf7ea64c56a26b30814ae2e3ff34fab47e389baa21be31a) | EQA69XQSXbB6zXv36mTFaiazCBSuLj_zT6tH44m6ohvjGv02
 [Gram Night ](https://tonviewer.com/0:3af4c86ef763810ad02c7b44896efdffdd5a62555d74779bcb530ff7060f0cca) | EQA69Mhu92OBCtAse0SJbv3_3VpiVV10d5vLUw_3Bg8Myt_0
 [Gram god. In GRAM we trust.](https://tonviewer.com/0:3a947da42809cdd67d6e0d962411467675f084454fabca6feeaf7155f5aec22d) | EQA6lH2kKAnN1n1uDZYkEUZ2dfCERU-rym_ur3FV9a7CLf0B
@@ -814,6 +816,7 @@ Name           | Address
 [Tvorog](https://tonviewer.com/0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b) | EQB0U4TH69CBD6AeO_yHFMW-u90UmH_65Gw5AkZblt3GO4R6
 [Twister The Dog](https://tonviewer.com/0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55) | EQDqrKJj1ZQeGTHSmjDkoe-1BrvKJ3tJzjWo-6y63lfvVU9R
 [UNICORN](https://tonviewer.com/0:7695bb76b3f8dd516dcea1421befef51a0ad947865e6802ec19cec202ba3ff25) | EQB2lbt2s_jdUW3OoUIb7-9RoK2UeGXmgC7BnOwgK6P_JTrm
+[USD Arni](https://tonviewer.com/0:45cd58b4054a0643bf4b77ba38d7f975b28a390429688c5915cf4a315e4d51f6) | EQBFzVi0BUoGQ79Ld7o41_l1soo5BClojFkVz0oxXk1R9rAM
 [UTYAB](https://tonviewer.com/0:30eb766a2e69f0440efb3d6d3b0962049e0c20f9e222cac6aa67c216a542f49c) | EQAw63ZqLmnwRA77PW07CWIEngwg-eIiysaqZ8IWpUL0nP7a
 [UXLINK Token](https://tonviewer.com/0:61f570024f407ad14f10e3c5678f2a82c73c69338a00d1cf2ba8ab7887bd3293) | EQBh9XACT0B60U8Q48VnjyqCxzxpM4oA0c8rqKt4h70yk1V5
 [Ultron](https://tonviewer.com/0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430) | EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT

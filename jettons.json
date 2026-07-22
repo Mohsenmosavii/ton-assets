@@ -2097,6 +2097,11 @@
   "symbol": "ECOR"
  },
  {
+  "address": "0:3ab12eaf06ff1d8299e08c1c0050d53373f92fd7623aaecc13c4bbf7bd7ca111",
+  "name": "Edy",
+  "symbol": "EDY"
+ },
+ {
   "address": "0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b",
   "name": "EggsWisdom",
   "symbol": "EGG"
@@ -2370,6 +2375,11 @@
   "address": "0:26b1820069d3d0ac49fec19ad12b0aa19d178b0ce78a97d4fbd2e9ae934300d5",
   "name": "gramming",
   "symbol": "GRAMMING"
+ },
+ {
+  "address": "0:26a9e7004ab5e9694eb7e7a2cf61a8c1a2154d9e190b54b032f2225a4797a120",
+  "name": "Gram Bro",
+  "symbol": "GRAMO"
  },
  {
   "address": "0:3a08e807b3c76bf4497d5ad85d6d7a4af2da07c2463ce35419de3b71b39f5b7b",
@@ -4190,6 +4200,11 @@
   "address": "0:e37a872aa15e386379a2aacb6e434713e41c52574e44daa115d9563539745024",
   "name": "Us Usach",
   "symbol": "USACH"
+ },
+ {
+  "address": "0:45cd58b4054a0643bf4b77ba38d7f975b28a390429688c5915cf4a315e4d51f6",
+  "name": "USD Arni",
+  "symbol": "USDA"
  },
  {
   "address": "0:086fa2a675f74347b08dd4606a549b8fdb98829cb282bc1949d3b12fbaed9dcc",
