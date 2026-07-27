@@ -1482,6 +1482,11 @@
   "symbol": "BABEL"
  },
  {
+  "address": "0:0e35686fdcd92842b24f32f07aeffca49d62cfc555fcc0f79f4cf57be61ed999",
+  "name": "Baby Groyper",
+  "symbol": "BABYGROYP"
+ },
+ {
   "address": "0:e3bcf1cebe99e8c874484855a446d037535e7213a408ee36778831b53c75a389",
   "name": "Baby Shark",
   "symbol": "BABYSHARK"
@@ -3852,6 +3857,11 @@
   "symbol": "TELEBTC"
  },
  {
+  "address": "0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94",
+  "name": "telegram.dog",
+  "symbol": "TELEDOG"
+ },
+ {
   "address": "0:971855ca4e9f7ad44d271c3ceeea079275cbe6d248982062ad899efbb66f4b14",
   "name": "Telegrem",
   "symbol": "TELEGREM"
@@ -4440,6 +4450,11 @@
   "address": "0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549",
   "name": "xRocket Token",
   "symbol": "XROCK"
+ },
+ {
+  "address": "0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee",
+  "name": "YAYA",
+  "symbol": "YAYA"
  },
  {
   "address": "0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26",
