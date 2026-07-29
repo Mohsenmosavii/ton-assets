@@ -2197,6 +2197,11 @@
   "symbol": "FLAM"
  },
  {
+  "address": "0:3a0ffd3d5df5fdc07049259c428b2b77376e0b38872b6235e9e8ea92716c6857",
+  "name": "Flamy Cat",
+  "symbol": "FLAMYCAT"
+ },
+ {
   "address": "0:1c498adc26ba9e3adc3a0a62b5fe4913c7b62c3fa3abf29bc6050ac015865b09",
   "name": "Coin Flipper",
   "symbol": "FLIP"
@@ -4650,6 +4655,11 @@
   "address": "0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237",
   "name": "\u0417\u0430\u0439\u0447\u0438\u043a",
   "symbol": "\u0417\u0430\u0439\u0447\u0438\u043a"
+ },
+ {
+  "address": "0:0e278ca7b05da8bfb0bde28823319a6ebe73b1d0e677861b8af67047cf73c61f",
+  "name": "\u041c\u041b\u0410\u041b\u041b\u0410\u0410",
+  "symbol": "\u041c\u041b\u0410\u041b\u041b\u0410\u0410"
  },
  {
   "address": "0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe",

@@ -272,6 +272,7 @@ Name           | Address
 [First Digital USD](https://tonviewer.com/0:f412fa64e2d8a614e1e6cb84afde5fca1145e533e74dd7f2a1ae84c27c1db090) | EQD0Evpk4timFOHmy4Sv3l_KEUXlM-dN1_KhroTCfB2wkO89
 [First meme Gram](https://tonviewer.com/0:2688056a3643686ecf025dbb77f0994d1655c9d1eced465b0fdd9dbb605d8332) | EQAmiAVqNkNobs8CXbt38JlNFlXJ0eztRlsP3Z27YF2DMvKr
 [Flamingo Coin](https://tonviewer.com/0:75256a79630b5d319946c0ca7d37f5728166118f5983983769f754a6f38f8025) | EQB1JWp5YwtdMZlGwMp9N_VygWYRj1mDmDdp91Sm84-AJWI_
+[Flamy Cat](https://tonviewer.com/0:3a0ffd3d5df5fdc07049259c428b2b77376e0b38872b6235e9e8ea92716c6857) | EQA6D_09XfX9wHBJJZxCiyt3N24LOIcrYjXp6OqScWxoV4Sb
 [FlokiTon](https://tonviewer.com/0:11983c9b7c4bf223faf7256ef364057e553cfca56bec7ae216a6362a400e38ba) | EQARmDybfEvyI_r3JW7zZAV-VTz8pWvseuIWpjYqQA44ui9r
 [FlowGaia](https://tonviewer.com/0:3aa42ed9798fbdf8ee02f3bffbe5829a34efd968d21aef27e3a336f4d2ee62de) | EQA6pC7ZeY-9-O4C87_75YKaNO_ZaNIa7yfjozb00u5i3quX
 [FredThePug](https://tonviewer.com/0:f0dafd2fab4692e0be8f5f56613da25423ee6363f57a3e27214a98ab55fe737d) | EQDw2v0vq0aS4L6PX1ZhPaJUI-5jY_V6PichSpirVf5zfbFp
@@ -922,6 +923,7 @@ Name           | Address
 [Зайчик](https://tonviewer.com/0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237) | EQCpCIOM55On1ht_uKzXDXONxVjBD1YqMOIhHq6eh-oCN70d
 [Кот Матроскин](https://tonviewer.com/0:8723c7ea218f6330882e41324f8e6f3f1ff641219d9c9d5f31e258067397b898) | EQCHI8fqIY9jMIguQTJPjm8_H_ZBIZ2cnV8x4lgGc5e4mOCb
 [Крокодил Гена](https://tonviewer.com/0:7c1502a42e054432a7ed50103b9b53926acdfcf81f046bf716aefb04a4c33ee1) | EQB8FQKkLgVEMqftUBA7m1OSas38-B8Ea_cWrvsEpMM-4TG1
+[МЛАЛЛАА](https://tonviewer.com/0:0e278ca7b05da8bfb0bde28823319a6ebe73b1d0e677861b8af67047cf73c61f) | EQAOJ4ynsF2ov7C94ogjMZpuvnOx0OZ3hhuK9nBHz3PGH2ad
 [Темный Друн](https://tonviewer.com/0:0e80bb061f112ded2c2e90c3009ddafc89150ddfcb4b9acc3e7df313e61b8cf4) | EQAOgLsGHxEt7SwukMMAndr8iRUN38tLmsw-ffMT5huM9JPX
 [Умка (UMKA)](https://tonviewer.com/0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe) | EQAOGTMi5YSVi6azQzqrOc3185rpUGAKokz0GOvbqj8evuIQ
 [ЧМОНЯ](https://tonviewer.com/0:a7d4bdc316ce7b4708100d5f6ac9a34f25e45c9214a7f0ff739ec724e9e3dd3a) | EQCn1L3DFs57RwgQDV9qyaNPJeRckhSn8P9znsck6ePdOl0r
