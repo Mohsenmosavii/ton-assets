@@ -2092,6 +2092,11 @@
   "symbol": "DUROV"
  },
  {
+  "address": "0:26055e4b56c7ca4d4761410233de339e3edb80f4124babb0b546e8b4f36bf469",
+  "name": "EAGLE",
+  "symbol": "EAGLE"
+ },
+ {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
   "name": "Earnigram",
   "symbol": "EARNI"
@@ -3385,6 +3390,11 @@
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
   "name": "Mintless Points",
   "symbol": "Points"
+ },
+ {
+  "address": "0:2659d5b31b87ee051cbf7acba6ec09e8a59693c5c9a61f7268a038abf68ca41a",
+  "name": "QUBY",
+  "symbol": "QUBY"
  },
  {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
@@ -4690,6 +4700,11 @@
   "address": "0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246",
   "name": "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043a\u0430",
   "symbol": "\u0447\u0435\u0431\u0443\u0440\u0430\u0448\u043a\u0430"
+ },
+ {
+  "address": "0:2652d2278ec66d9c946988e3b21e89898879add8b4daaedd358a0324d148e395",
+  "name": "\u0628\u0627\u0641\u0644 \u062f\u0648\u0631\u0648\u0641",
+  "symbol": "\u0628\u0627\u0641\u0644 \u062f\u0648\u0631\u0648\u0641"
  },
  {
   "address": "0:e597ba8665e0ed04daec57d275107361b4b60e397f53bb2dfc6c2ada3cbda120",
