@@ -376,6 +376,7 @@ Name           | Address
 [LADY](https://tonviewer.com/0:68c0430235ab7ea053166d186118168457140ee6a872a9e8b83fbe03db1871f9) | EQBowEMCNat-oFMWbRhhGBaEVxQO5qhyqei4P74D2xhx-TR6
 [LEOPOLD](https://tonviewer.com/0:35f6810b89fc5c016bd1e5ae1d20f426238be0f6583b8dc323986862f3ccaecc) | EQA19oELifxcAWvR5a4dIPQmI4vg9lg7jcMjmGhi88yuzJU6
 [LLAMA](https://tonviewer.com/0:c95e05ef7644c21b437af9ee81d7e7e5d54d4b9cf1cc629aa2a3750403d28067) | EQDJXgXvdkTCG0N6-e6B1-fl1U1LnPHMYpqio3UEA9KAZ07j
+[LOCKIN](https://tonviewer.com/0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4) | EQAmAb3d7dEP8fMWOf42Jzxu8DyG_fCK9ndfLs1XhjlN5HU9
 [LP Token for AMBR-oUSDC](https://tonviewer.com/0:3f8601005845e9b89affe7a13599c8c7ac396e884fcb92957846be818482cc97) | EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an
 [LP Token for ARBUZ-TON](https://tonviewer.com/0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367) | EQChrWJNhwrazRcwYZU74S0DQuqJK6FT40xk7uKNLVmjZ9Da
 [LP Token for BOLT-WTON](https://tonviewer.com/0:4cb7638015bf33e782273f9649b0273110ea151dd48b817b830057ed3b8756d1) | EQBMt2OAFb8z54InP5ZJsCcxEOoVHdSLgXuDAFftO4dW0bUk

@@ -2777,6 +2777,11 @@
   "symbol": "LNG"
  },
  {
+  "address": "0:2601bdddedd10ff1f31639fe36273c6ef03c86fdf08af6775f2ecd5786394de4",
+  "name": "LOCKIN",
+  "symbol": "LOCKIN"
+ },
+ {
   "address": "0:19a28f48d8bc5aa5c897410dc3e11274246a0268e1390d4510748cc883f5f29a",
   "name": "Luna or Not",
   "symbol": "LON"
